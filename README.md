@@ -1,5 +1,5 @@
 # SpringBootAndRest
-Neste repositório, documentamos o aprendizado prático sobre a criação de APIs REST utilizando o Spring Boot, sob a orientação do instrutor Leandro Costa. O curso "Desenvolva uma API REST do 0 e implante na AWS" oferece uma abordagem abrangente, incluindo a utilização de diversas tecnologias e ferramentas essenciais, como:
+Neste repositório, documentamos o aprendizado prático sobre a criação de APIs REST utilizando o Spring Boot, sob a orientação do instrutor **[Leandro Costa](https://www.linkedin.com/in/ldcgsi/)**. O curso "Desenvolva uma API REST do 0 e implante na AWS" oferece uma abordagem abrangente, incluindo a utilização de diversas tecnologias e ferramentas essenciais, como:
 
 * Spring Boot: Para desenvolvimento ágil de aplicações.
 * Swagger: Para documentação e teste de APIs.
